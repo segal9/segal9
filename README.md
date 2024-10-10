@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @segal9
+- 👀 I’m interested in web development and game development too.
+- 🌱 I’m currently learning more on python, then C++
+- 💞️ I’m looking to collaborate on web dev projects and then make games.
+- 📫 How to reach me segal904@gmail.com
+- 😄 
+- ⚡ Fun fact: I am technical services engineer, and I want to focus most evening on coding now.
